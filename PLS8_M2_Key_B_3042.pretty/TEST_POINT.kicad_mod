@@ -1,0 +1,13 @@
+(footprint "TEST_POINT" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 61FC8326)
+  (fp_text reference "TP?" (at 0 -1 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+    (tstamp 3ac069a8-8a74-4ddd-abb9-f5c61f917fd2)
+  )
+  (fp_text value "TEST_POINT" (at -1.27 -3.683137 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 0.635 0.635) (thickness 0.0635)) (justify left bottom))
+    (tstamp 1c9d172a-2e68-4c4d-9484-978e6ce0e971)
+  )
+  (pad "1" smd circle (at 0 0) (size 0.8 0.8) (layers "F.Cu" "F.Mask") (tstamp 16de3b4a-b140-4f02-8fb0-597e5a3c266a))
+)
